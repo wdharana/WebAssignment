@@ -23,69 +23,6 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 
 /***/ }),
 
-/***/ "./src/app/admin/admin.component.css":
-/*!*******************************************!*\
-  !*** ./src/app/admin/admin.component.css ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/admin/admin.component.html":
-/*!********************************************!*\
-  !*** ./src/app/admin/admin.component.html ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/admin/admin.component.ts":
-/*!******************************************!*\
-  !*** ./src/app/admin/admin.component.ts ***!
-  \******************************************/
-/*! exports provided: AdminComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AdminComponent", function() { return AdminComponent; });
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (undefined && undefined.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-var AdminComponent = /** @class */ (function () {
-    function AdminComponent() {
-    }
-    AdminComponent.prototype.ngOnInit = function () {
-    };
-    AdminComponent = __decorate([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
-            selector: 'app-admin',
-            template: __webpack_require__(/*! ./admin.component.html */ "./src/app/admin/admin.component.html"),
-            styles: [__webpack_require__(/*! ./admin.component.css */ "./src/app/admin/admin.component.css")]
-        }),
-        __metadata("design:paramtypes", [])
-    ], AdminComponent);
-    return AdminComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/app.component.css":
 /*!***********************************!*\
   !*** ./src/app/app.component.css ***!
@@ -162,22 +99,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_nav_bar_nav_bar_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/nav-bar/nav-bar.component */ "./src/app/components/nav-bar/nav-bar.component.ts");
 /* harmony import */ var _components_login_login_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/login/login.component */ "./src/app/components/login/login.component.ts");
 /* harmony import */ var _components_register_register_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/register/register.component */ "./src/app/components/register/register.component.ts");
-/* harmony import */ var _admin_admin_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./admin/admin.component */ "./src/app/admin/admin.component.ts");
-/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
-/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
-/* harmony import */ var _services_validate_service__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./services/validate.service */ "./src/app/services/validate.service.ts");
-/* harmony import */ var _services_auth_service__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./services/auth.service */ "./src/app/services/auth.service.ts");
-/* harmony import */ var angular_alert_module__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! angular-alert-module */ "./node_modules/angular-alert-module/fesm5/alerts.js");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-/* harmony import */ var _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./components/profile/profile.component */ "./src/app/components/profile/profile.component.ts");
-/* harmony import */ var _guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./guards/auth.guard */ "./src/app/guards/auth.guard.ts");
-/* harmony import */ var _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/addnewlab/addnewlab.component */ "./src/app/components/addnewlab/addnewlab.component.ts");
-/* harmony import */ var _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/makereservation/makereservation.component */ "./src/app/components/makereservation/makereservation.component.ts");
-/* harmony import */ var _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/myreservation/myreservation.component */ "./src/app/components/myreservation/myreservation.component.ts");
-/* harmony import */ var _components_side_bar_side_bar_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./components/side-bar/side-bar.component */ "./src/app/components/side-bar/side-bar.component.ts");
-/* harmony import */ var _reports_reports_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./reports/reports.component */ "./src/app/reports/reports.component.ts");
-/* harmony import */ var _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./components/adduser/adduser.component */ "./src/app/components/adduser/adduser.component.ts");
-/* harmony import */ var _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./components/admindashboad/admindashboad.component */ "./src/app/components/admindashboad/admindashboad.component.ts");
+/* harmony import */ var _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/dashboard/dashboard.component */ "./src/app/components/dashboard/dashboard.component.ts");
+/* harmony import */ var _components_home_home_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/home/home.component */ "./src/app/components/home/home.component.ts");
+/* harmony import */ var _services_validate_service__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./services/validate.service */ "./src/app/services/validate.service.ts");
+/* harmony import */ var _services_auth_service__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./services/auth.service */ "./src/app/services/auth.service.ts");
+/* harmony import */ var angular_alert_module__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! angular-alert-module */ "./node_modules/angular-alert-module/fesm5/alerts.js");
+/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
+/* harmony import */ var _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/profile/profile.component */ "./src/app/components/profile/profile.component.ts");
+/* harmony import */ var _guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./guards/auth.guard */ "./src/app/guards/auth.guard.ts");
+/* harmony import */ var _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./components/addnewlab/addnewlab.component */ "./src/app/components/addnewlab/addnewlab.component.ts");
+/* harmony import */ var _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/makereservation/makereservation.component */ "./src/app/components/makereservation/makereservation.component.ts");
+/* harmony import */ var _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/myreservation/myreservation.component */ "./src/app/components/myreservation/myreservation.component.ts");
+/* harmony import */ var _components_side_bar_side_bar_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/side-bar/side-bar.component */ "./src/app/components/side-bar/side-bar.component.ts");
+/* harmony import */ var _reports_reports_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./reports/reports.component */ "./src/app/reports/reports.component.ts");
+/* harmony import */ var _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./components/adduser/adduser.component */ "./src/app/components/adduser/adduser.component.ts");
+/* harmony import */ var _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./components/admindashboad/admindashboad.component */ "./src/app/components/admindashboad/admindashboad.component.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -207,20 +143,18 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 
 
-
 var appRoutes = [
-    { path: '', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_10__["HomeComponent"] },
+    { path: '', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_9__["HomeComponent"] },
     { path: 'register', component: _components_register_register_component__WEBPACK_IMPORTED_MODULE_7__["RegisterComponent"] },
     { path: 'login', component: _components_login_login_component__WEBPACK_IMPORTED_MODULE_6__["LoginComponent"] },
-    { path: 'admin', component: _admin_admin_component__WEBPACK_IMPORTED_MODULE_8__["AdminComponent"] },
-    { path: 'dashboard', component: _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_9__["DashboardComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'admindashboard', component: _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_23__["AdmindashboadComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'profile', component: _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_15__["ProfileComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'addlab', component: _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_17__["AddnewlabComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'makereservation', component: _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_18__["MakereservationComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'checkavailability', component: _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_19__["MyreservationComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'adduser', component: _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_22__["AdduserComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] },
-    { path: 'reports', component: _reports_reports_component__WEBPACK_IMPORTED_MODULE_21__["ReportsComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]] }
+    { path: 'dashboard', component: _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_8__["DashboardComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'admindashboard', component: _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_22__["AdmindashboadComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'profile', component: _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_14__["ProfileComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'addlab', component: _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_16__["AddnewlabComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'makereservation', component: _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_17__["MakereservationComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'checkavailability', component: _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_18__["MyreservationComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'adduser', component: _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_21__["AdduserComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] },
+    { path: 'reports', component: _reports_reports_component__WEBPACK_IMPORTED_MODULE_20__["ReportsComponent"], canActivate: [_guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]] }
 ];
 var AppModule = /** @class */ (function () {
     function AppModule() {
@@ -232,26 +166,25 @@ var AppModule = /** @class */ (function () {
                 _components_nav_bar_nav_bar_component__WEBPACK_IMPORTED_MODULE_5__["NavBarComponent"],
                 _components_login_login_component__WEBPACK_IMPORTED_MODULE_6__["LoginComponent"],
                 _components_register_register_component__WEBPACK_IMPORTED_MODULE_7__["RegisterComponent"],
-                _admin_admin_component__WEBPACK_IMPORTED_MODULE_8__["AdminComponent"],
-                _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_9__["DashboardComponent"],
-                _components_home_home_component__WEBPACK_IMPORTED_MODULE_10__["HomeComponent"],
-                _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_15__["ProfileComponent"],
-                _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_17__["AddnewlabComponent"],
-                _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_18__["MakereservationComponent"],
-                _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_19__["MyreservationComponent"],
-                _components_side_bar_side_bar_component__WEBPACK_IMPORTED_MODULE_20__["SideBarComponent"],
-                _reports_reports_component__WEBPACK_IMPORTED_MODULE_21__["ReportsComponent"],
-                _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_22__["AdduserComponent"],
-                _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_23__["AdmindashboadComponent"],
+                _components_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_8__["DashboardComponent"],
+                _components_home_home_component__WEBPACK_IMPORTED_MODULE_9__["HomeComponent"],
+                _components_profile_profile_component__WEBPACK_IMPORTED_MODULE_14__["ProfileComponent"],
+                _components_addnewlab_addnewlab_component__WEBPACK_IMPORTED_MODULE_16__["AddnewlabComponent"],
+                _components_makereservation_makereservation_component__WEBPACK_IMPORTED_MODULE_17__["MakereservationComponent"],
+                _components_myreservation_myreservation_component__WEBPACK_IMPORTED_MODULE_18__["MyreservationComponent"],
+                _components_side_bar_side_bar_component__WEBPACK_IMPORTED_MODULE_19__["SideBarComponent"],
+                _reports_reports_component__WEBPACK_IMPORTED_MODULE_20__["ReportsComponent"],
+                _components_adduser_adduser_component__WEBPACK_IMPORTED_MODULE_21__["AdduserComponent"],
+                _components_admindashboad_admindashboad_component__WEBPACK_IMPORTED_MODULE_22__["AdmindashboadComponent"],
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
                 _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterModule"].forRoot(appRoutes),
                 _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormsModule"],
-                angular_alert_module__WEBPACK_IMPORTED_MODULE_13__["AlertsModule"].forRoot(),
-                _angular_common_http__WEBPACK_IMPORTED_MODULE_14__["HttpClientModule"]
+                angular_alert_module__WEBPACK_IMPORTED_MODULE_12__["AlertsModule"].forRoot(),
+                _angular_common_http__WEBPACK_IMPORTED_MODULE_13__["HttpClientModule"]
             ],
-            providers: [_services_validate_service__WEBPACK_IMPORTED_MODULE_11__["ValidateService"], _services_auth_service__WEBPACK_IMPORTED_MODULE_12__["AuthService"], _guards_auth_guard__WEBPACK_IMPORTED_MODULE_16__["AuthGuard"]],
+            providers: [_services_validate_service__WEBPACK_IMPORTED_MODULE_10__["ValidateService"], _services_auth_service__WEBPACK_IMPORTED_MODULE_11__["AuthService"], _guards_auth_guard__WEBPACK_IMPORTED_MODULE_15__["AuthGuard"]],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
         })
     ], AppModule);
@@ -799,7 +732,12 @@ var LoginComponent = /** @class */ (function () {
             if (data['success']) {
                 _this.aurthService.storeUserData(data['token'], data['user']);
                 _this.alerts.setMessage('You are logged in', 'success');
-                _this.router.navigate(['dashboard']);
+                if (_this.aurthService.getType()) {
+                    _this.router.navigate(['admindashboard']);
+                }
+                else {
+                    _this.router.navigate(['dashboard']);
+                }
             }
             else {
                 console.log(data);
@@ -1107,7 +1045,7 @@ module.exports = "\r\n"
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<nav class=\"navbar navbar-inverse navbar-top\">\r\n  <div class=\"container\">\r\n    <div class=\"navbar-header\">\r\n      <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\r\n        <span class=\"sr-only\">Toggle navigation</span>\r\n        <span class=\"icon-bar\"></span>\r\n        <span class=\"icon-bar\"></span>\r\n        <span class=\"icon-bar\"></span>\r\n      </button>\r\n      <a class=\"navbar-brand\" href=\"#\">UCSC Lab Reservation</a>\r\n    </div>\r\n    <div id=\"navbar\" class=\"collapse navbar-collapse\">\r\n      <ul class=\"nav navbar-nav navbar-left\">\r\n        <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink] = \"['/']\">Home</a></li>\r\n      </ul>\r\n\r\n      <ul class=\"nav navbar-nav navbar-right\">\r\n\r\n        <!--<li *ngIf=\"authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/profile']\">profile</a></li> &lt;!&ndash;*ngIf=\"authService.loggedIn()\" &ndash;&gt;-->\r\n        <!--<li *ngIf=\"authService.loggedIn()\"  [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/dashboard']\">Dashboard</a></li>-->\r\n        <li *ngIf=\"authService.loggedIn()\"  [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/dashboard']\">Dashboard</a></li>\r\n        <li *ngIf=\"!authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/login']\">Login</a></li>\r\n        <li *ngIf=\"!authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/register']\">Register</a></li>\r\n        <li *ngIf=\"authService.loggedIn()\" ><a (click)=\"onLogoutClick()\"  href=\"#\">Logout</a></li>\r\n      </ul>\r\n    </div><!--/.nav-collapse -->\r\n  </div>\r\n</nav>\r\n"
+module.exports = "<nav class=\"navbar navbar-inverse navbar-top\">\r\n  <div class=\"container\">\r\n    <div class=\"navbar-header\">\r\n      <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\r\n        <span class=\"sr-only\">Toggle navigation</span>\r\n        <span class=\"icon-bar\"></span>\r\n        <span class=\"icon-bar\"></span>\r\n        <span class=\"icon-bar\"></span>\r\n      </button>\r\n      <a class=\"navbar-brand\" href=\"#\">UCSC Lab Reservation</a>\r\n    </div>\r\n    <div id=\"navbar\" class=\"collapse navbar-collapse\">\r\n      <ul class=\"nav navbar-nav navbar-left\">\r\n        <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink] = \"['/']\">Home</a></li>\r\n      </ul>\r\n\r\n      <ul class=\"nav navbar-nav navbar-right\">\r\n\r\n        <li *ngIf=\"authService.loggedIn()  && !authService.getType()\"  [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/dashboard']\">Dashboard</a></li>\r\n        <li *ngIf=\"authService.loggedIn() && authService.getType()\"  [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/admindashboard']\">Dashboard</a></li>\r\n        <li *ngIf=\"!authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/login']\">Login</a></li>\r\n        <li *ngIf=\"!authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/register']\">Register</a></li>\r\n        <li *ngIf=\"authService.loggedIn()\" ><a (click)=\"onLogoutClick()\"  href=\"#\">Logout</a></li>\r\n      </ul>\r\n    </div><!--/.nav-collapse -->\r\n  </div>\r\n</nav>\r\n"
 
 /***/ }),
 
@@ -1433,7 +1371,7 @@ module.exports = ".nav-side-menu {\r\n  overflow: auto;\r\n  font-family: verdan
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"nav-side-menu\">\n\n\n  <div class=\"menu-list\" style=\"font-family: 'Lobster', cursive;\">\n\n    <ul id=\"menu-content\" class=\"menu-content collapse out\">\n\n      <li *ngIf=\"authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/profile']\">profile</a></li> <!--*ngIf=\"authService.loggedIn()\" -->\n\n\n\n      <li *ngIf=\"authService.loggedIn()\"  [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/admindashboard']\">Dashboard</a></li>\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/addlab']\"><i ></i> Add Lab</a></li>\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/reports']\"><i ></i> Reports</a></li>\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/adduser']\"><i ></i> Add User</a></li>\n\n      <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a [routerLink]=\"['/makereservation']\"><i ></i> Make Reservation</a></li>\n\n      <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a [routerLink]=\"['/checkavailability']\"><i ></i>Check Availability </a></li>\n\n    </ul>\n  </div>\n</div>\n"
+module.exports = "<div class=\"nav-side-menu\">\n\n\n  <div class=\"menu-list\" style=\"font-family: 'Lobster', cursive;\">\n\n    <ul id=\"menu-content\" class=\"menu-content collapse out\">\n\n      <li *ngIf=\"authService.loggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a  [routerLink]=\"['/profile']\">profile</a></li> <!--*ngIf=\"authService.loggedIn()\" -->\n\n\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/addlab']\"><i ></i> Add Lab</a></li>\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/reports']\"><i ></i> Reports</a></li>\n\n      <li *ngIf=\"authService.getType()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\" ><a [routerLink]=\"['/adduser']\"><i ></i> Add User</a></li>\n\n      <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a [routerLink]=\"['/makereservation']\"><i ></i> Make Reservation</a></li>\n\n      <li [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact:true}\"><a [routerLink]=\"['/checkavailability']\"><i ></i>Check Availability </a></li>\n\n    </ul>\n  </div>\n</div>\n"
 
 /***/ }),
 
@@ -1912,7 +1850,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\dwnad\Desktop\TestAdvanceWeb\angular-src\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\dwnad\Desktop\TestAdvanceWeb\WebAssignment\angular-src\src\main.ts */"./src/main.ts");
 
 
 /***/ })

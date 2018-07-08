@@ -36,55 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="validate.service.spec.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/services/validate.service.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" column="48" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashboard.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admindashboad.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/admindashboad/admindashboad.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admindashboad.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/admindashboad/admindashboad.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="auth.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
+            <state relative-caret-position="748">
               <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -111,34 +66,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/main.js">
+      <file leaf-file-name="nav-bar.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            <state relative-caret-position="374">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="side-bar.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/side-bar/side-bar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="48" selection-start-line="48" selection-end-line="49" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#2;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#3;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#2;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav-bar.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153">
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,7 +144,6 @@
         <option value="$PROJECT_DIR$/routes/labreservations.js" />
         <option value="$PROJECT_DIR$/models/labreservation.js" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/admindashboad/admindashboad.component.ts" />
-        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.html" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.css" />
@@ -198,11 +172,12 @@
         <option value="$PROJECT_DIR$/angular-src/src/app/components/addnewlab/addnewlab.component.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/makereservation/makereservation.component.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/services/validate.service.ts" />
-        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/services/validate.service.spec.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/addnewlab/addnewlab.component.html" />
-        <option value="$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts" />
         <option value="$PROJECT_DIR$/angular-src/src/app/components/side-bar/side-bar.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.html" />
       </list>
     </option>
   </component>
@@ -236,87 +211,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="addnewlab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="adduser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="admindashboad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
@@ -324,26 +255,8 @@
               <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="makereservation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="myreservation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
@@ -351,26 +264,8 @@
               <item name="nav-bar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="profile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="angular-src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
@@ -378,65 +273,25 @@
               <item name="side-bar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="guards" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-src" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAssignment" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAdvanceWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAdvanceWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/angular-src/src/app/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\dwnad\Desktop\TestAdvanceWeb\angular-src\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\dwnad\Desktop\TestAdvanceWeb\WebAssignment\angular-src\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -480,6 +335,7 @@
       <workItem from="1530600758966" duration="18021000" />
       <workItem from="1530679673169" duration="22454000" />
       <workItem from="1531035126666" duration="928000" />
+      <workItem from="1531043447295" duration="1772000" />
     </task>
     <task id="LOCAL-00001" summary="Registration">
       <created>1530192267902</created>
@@ -492,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240891000" />
+    <option name="totallyTimeSpent" value="242663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -504,28 +360,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5959752" visible="true" weight="0.16792738" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32972136" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015129" side_tool="true" weight="0.27244583" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32972136" />
       <window_info anchor="right" id="npm" order="4" sideWeight="0.5007474" weight="0.17246597" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.32972136" />
-      <window_info id="Structure" order="1" sideWeight="0.40402478" side_tool="true" weight="0.1785174" />
       <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.1913767" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.27244583" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" visible="true" weight="0.27244583" />
+      <window_info anchor="bottom" id="TypeScript" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5959752" visible="true" weight="0.16792738" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" sideWeight="0.40402478" side_tool="true" weight="0.1785174" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="1" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32972136" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32972136" />
     </layout>
@@ -546,23 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/login/login.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -741,9 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,20 +609,10 @@
         <state relative-caret-position="-51" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/reports/reports.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#71#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,19 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,20 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/side-bar/side-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -847,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/services/validate.service.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
+        <state relative-caret-position="1224">
           <caret line="74" column="48" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
@@ -857,7 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="187">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
@@ -867,7 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/admindashboad/admindashboad.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="748">
           <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
@@ -877,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="748">
           <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -903,9 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        <state relative-caret-position="344">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
@@ -940,6 +736,58 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#2;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/side-bar/side-bar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="48" selection-start-line="48" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/side-bar/side-bar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/nav-bar/nav-bar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
