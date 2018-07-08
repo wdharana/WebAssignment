@@ -1,0 +1,27 @@
+{
+  "name": "testadvanceweb",
+  "version": "1.0.0",
+  "description": "Mean app autontication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "@angular/cli": "^6.0.8",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "jspdf": "^1.4.1",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Dharana Nadeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jspdf": "^1.1.31"
+  }
+}
